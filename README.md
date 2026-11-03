@@ -1,5 +1,7 @@
 **NFTGENIX: NFT Marketplace Landing Site**
 
+Live site: https://nftgenix.vercel.app
+
 A responsive front end design for an NFT marketplace, built as a web design exercise.
 
 **Pages**
